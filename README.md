@@ -5,9 +5,7 @@
 https://github.com/kyechan99/capsule-render#wave
 -->
 
-### How to reach me? 🤔
-
-- 📮  **Email**[![Gmail Badge](https://img.shields.io/badge/-mail-yellowgreen)](mailto:2750seolhee@naver.com)
+- 📮  **Email**[![Mail Badge](https://img.shields.io/badge/-mail-yellowgreen)](mailto:2750seolhee@naver.com)
 
 - 📒  **Blog** [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white&link=https://fomaios.tistory.com/)](https://seolhee2750.tistory.com/)   
 
