@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=seolhee%20github&fontSize=90)
 
 ### today 👀
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolhee2750&count_bg=%23E9D1FF&title_bg=%23FFEE00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolhee2750&count_bg=%23A996BA&title_bg=%23B6AA00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **seolhee2750/seolhee2750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
