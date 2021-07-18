@@ -2,12 +2,17 @@
  
 Let's get to know each other 〰️
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&text=seolhee%20github&fontSize=50&color=e6e6fa&fontColor=ffc800)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=seolhee%20github&fontSize=60&color=e6e6fa&fontColor=ffc81e)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=seolhee%20github&fontSize=60&color=b9bada&fontColor=ffc81e)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=seolhee%20github&fontSize=60&color=b098c1&fontColor=ffc81e)
 <!--
 https://github.com/kyechan99/capsule-render#wave
 -->
 <!--
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=koggoma_&logNo=110129934787
+-->
+<!--
+https://kr.freepik.com/premium-vector/blue-and-purple-color-palette-with-hex_13030875.htm
 -->
 
 ### 📎 my link 
