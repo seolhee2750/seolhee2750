@@ -5,7 +5,7 @@
 https://github.com/kyechan99/capsule-render#wave
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seolhee&layout=compact)](https://seolhee2750.tistory.com/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seolhee&layout=compact)](https://github.com/seolhee2750)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee&show_icons=true&theme=dracula)
 <!--
