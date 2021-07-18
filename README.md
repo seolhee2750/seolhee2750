@@ -1,4 +1,6 @@
- <h1>Hello guys <img src="https://emojis.slackmojis.com/emojis/images/1613817395/13991/heart-3d.gif?1613817395" width="30"><img src="https://emojis.slackmojis.com/emojis/images/1613422795/13055/heart_spin.gif?1613422795" width="30"/></h1>
+ <h1>Hi <img src="https://emojis.slackmojis.com/emojis/images/1613817395/13991/heart-3d.gif?1613817395" width="30"><img src="https://emojis.slackmojis.com/emojis/images/1613422795/13055/heart_spin.gif?1613422795" width="30"/></h1>
+ 
+Let's get to know each other 〰️
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=100&section=header&text=seolhee%20github&fontSize=50&color=e6e6fa&fontColor=ffc800)
 <!--
