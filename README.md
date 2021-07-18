@@ -14,6 +14,8 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=koggoma_&log
 https://kr.freepik.com/premium-vector/blue-and-purple-color-palette-with-hex_13030875.htm
 -->
 
+Let's get to know each other 〰️
+
 ### 📎 my link 
 [![Mail Badge](https://img.shields.io/badge/-mail-yellowgreen?logo=minutemailer&logoColor=white)](mailto:2750seolhee@naver.com) [![Tech Blog Badge](https://img.shields.io/badge/-tech%20blog-yellow?logo=bookstack&logoColor=white)](https://seolhee2750.tistory.com/)   
 <!--
