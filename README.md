@@ -5,8 +5,12 @@
 https://github.com/kyechan99/capsule-render#wave
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee&show_icons=true&theme=dracula)
+<!--
+https://github.com/anuraghazra/github-readme-stats#github-stats-card
+-->
 
 ### today 👀
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolhee2750&count_bg=%23A996BA&title_bg=%23B6AA00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
