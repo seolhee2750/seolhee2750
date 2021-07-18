@@ -5,7 +5,7 @@
 https://github.com/kyechan99/capsule-render#wave
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolhee&show_icons=true&theme=synthwave)
 
 
 ### today 👀
