@@ -1,5 +1,6 @@
  <h1>Hi <!--<img src="https://emojis.slackmojis.com/emojis/images/1613817395/13991/heart-3d.gif?1613817395" width="30">--><img src="https://emojis.slackmojis.com/emojis/images/1613422795/13055/heart_spin.gif?1613422795" width="30"/></h1>
  
+Let's get to know each other 〰️ 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=seolhee%20github&fontSize=60&color=e6e6fa&fontColor=ffc81e)
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=seolhee%20github&fontSize=60&color=b9bada&fontColor=ffc81e)
@@ -14,7 +15,6 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=koggoma_&log
 https://kr.freepik.com/premium-vector/blue-and-purple-color-palette-with-hex_13030875.htm
 -->
 
-Let's get to know each other 〰️
 
 ### 📎 my link 
 [![Mail Badge](https://img.shields.io/badge/-mail-yellowgreen?logo=minutemailer&logoColor=white)](mailto:2750seolhee@naver.com) [![Tech Blog Badge](https://img.shields.io/badge/-tech%20blog-yellow?logo=bookstack&logoColor=white)](https://seolhee2750.tistory.com/)   
