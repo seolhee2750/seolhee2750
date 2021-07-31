@@ -2,7 +2,7 @@
  <!--
 https://slackmojis.com/
 -->
- 
+
 Let's get to know each other.
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=seolhee%20github&fontSize=60&color=e6e6fa&fontColor=ffc81e)
@@ -18,31 +18,20 @@ https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=koggoma_&log
 https://kr.freepik.com/premium-vector/blue-and-purple-color-palette-with-hex_13030875.htm
 -->
 
-
-### 📎 my link 
-[![Mail Badge](https://img.shields.io/badge/-mail-yellowgreen?logo=minutemailer&logoColor=white)](mailto:2750seolhee@naver.com) [![Tech Blog Badge](https://img.shields.io/badge/-tech%20blog-yellow?logo=bookstack&logoColor=white)](https://seolhee2750.tistory.com/)   
-<!--
-https://shields.io/
--->
-
-### 👀 today
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolhee2750&count_bg=%23A996BA&title_bg=%23B6AA00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 https://hits.seeyoufarm.com/
 -->
 
+---
 
+
+### 📨 Contact
+[![Mail Badge](https://img.shields.io/badge/-mail-yellowgreen?logo=minutemailer&logoColor=white)](mailto:2750seolhee@naver.com) 
+
+### 📎 TechBlog
+###### 공부한 기술과 그 과정. ➕ 다양한 배움을 담았습니다.
+[![Tech Blog Badge](https://img.shields.io/badge/-tech%20blog-yellow?logo=bookstack&logoColor=white)](https://seolhee2750.tistory.com/)   
 <!--
-**seolhee2750/seolhee2750** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+https://shields.io/
 -->
