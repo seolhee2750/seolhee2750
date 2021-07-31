@@ -30,7 +30,7 @@ https://hits.seeyoufarm.com/
 [![Mail Badge](https://img.shields.io/badge/-mail-yellowgreen?logo=minutemailer&logoColor=white)](mailto:2750seolhee@naver.com) 
 
 ### 📎 TechBlog
-###### 공부한 기술과 그 과정. ➕ 다양한 배움을 담았습니다.
+###### the skills and processes studied. ➕ contains a variety of learning.
 [![Tech Blog Badge](https://img.shields.io/badge/-tech%20blog-yellow?logo=bookstack&logoColor=white)](https://seolhee2750.tistory.com/)   
 <!--
 https://shields.io/
