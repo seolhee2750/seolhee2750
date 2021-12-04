@@ -3,7 +3,7 @@
 https://slackmojis.com/
 -->
 
-Let's get to know each other.
+Let's get to know each other!
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=seolhee%20github&fontSize=60&color=e6e6fa&fontColor=ffc81e)
 ![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=seolhee%20github&fontSize=60&color=b9bada&fontColor=ffc81e)
