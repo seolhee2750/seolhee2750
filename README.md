@@ -25,13 +25,12 @@ https://hits.seeyoufarm.com/
 
 ---
 
-
-### 📨 Contact
-[![Mail Badge](https://img.shields.io/badge/-mail-yellowgreen?logo=minutemailer&logoColor=white)](mailto:2750seolhee@naver.com) 
-
 ### 📎 TechBlog
 ###### the skills and processes studied. ➕ contains a variety of learning.
 [![Tech Blog Badge](https://img.shields.io/badge/-tech%20blog-yellow?logo=bookstack&logoColor=white)](https://seolhee2750.tistory.com/)   
 <!--
 https://shields.io/
 -->
+
+### 📨 Contact
+[![Mail Badge](https://img.shields.io/badge/-mail-yellowgreen?logo=minutemailer&logoColor=white)](mailto:2750seolhee@naver.com) 
