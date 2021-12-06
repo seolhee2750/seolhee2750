@@ -26,7 +26,6 @@ https://hits.seeyoufarm.com/
 ---
 
 ### 📎 TechBlog
-###### the skills and processes studied. ➕ contains a variety of learning.
 [![Tech Blog Badge](https://img.shields.io/badge/-tech%20blog-yellow?logo=bookstack&logoColor=white)](https://seolhee2750.tistory.com/)   
 <!--
 https://shields.io/
