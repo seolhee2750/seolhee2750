@@ -31,6 +31,6 @@ https://kr.freepik.com/premium-vector/blue-and-purple-color-palette-with-hex_130
 ### Tech Stack
 ![Unity](https://img.shields.io/badge/-Unity-C57FA7?logo=Unity&logoColor=FFF423) ![iOS](https://img.shields.io/badge/-iOS-6E74D3?logo=Apple&logoColor=B3CEED) ![Android](https://img.shields.io/badge/-Android-839158?logo=Android&logoColor=white)
  
-![swift](https://img.shields.io/badge/-swift-C26F1E?logo=swift&logoColor=EEAEAE) ![C#](https://img.shields.io/badge/-C%23-4D8ABA?logo=C#&logoColor=white) ![Python](https://img.shields.io/badge/-Python-886CA7?logo=Python&logoColor=CCFFCE) ![MySQL](https://img.shields.io/badge/-MySQL-B0944B?logo=MySQL&logoColor=51F7FF)
+![swift](https://img.shields.io/badge/-swift-C26F1E?logo=swift&logoColor=EEAEAE) ![C#](https://img.shields.io/badge/-C%23-4D8ABA?logo=C#&logoColor=white) ![Python](https://img.shields.io/badge/-Python-886CA7?logo=Python&logoColor=CCFFCE) ![MySQL](https://img.shields.io/badge/-MySQL-B0944B?logo=MySQL&logoColor=51F7FF) ![Java](https://img.shields.io/badge/-Java-red)
  
 </div>
