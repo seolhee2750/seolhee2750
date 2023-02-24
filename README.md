@@ -7,14 +7,13 @@ https://slackmojis.com/
  
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseolhee2750&count_bg=%23A996BA&title_bg=%23B6AA00&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![BOJ](https://img.shields.io/badge/solved.ac-G1-DCA900)
-[![Tech Blog Badge](https://img.shields.io/badge/-tech%20blog-yellow?logo=bookstack&logoColor=FF2C8C)](https://seolhee2750.tistory.com/)
+![BOJ](https://img.shields.io/badge/solved.ac-G1-f8f8ff) [![Tech Blog Badge](https://img.shields.io/badge/-tech%20blog-fff5ee?logo=bookstack&logoColor=dda0dd)](https://seolhee2750.tistory.com/)
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=seolhee%20github&fontSize=60&color=e6e6fa&fontColor=ffc81e)
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=seolhee%20github&fontSize=60&color=b9bada&fontColor=ffc81e)
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=seolhee%20github&fontSize=60&color=b098c1&fontColor=ffc81e)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=seolhee%20github&fontSize=60&color=f8f4ff&fontColor=ffc81e)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=seolhee%20github&fontSize=60&color=ebe8f1&fontColor=ffc81e)
+![header](https://capsule-render.vercel.app/api?type=cylinder&height=30&section=header&text=seolhee%20github&fontSize=60&color=e0dde6&fontColor=ffc81e)
 <!--
 https://github.com/kyechan99/capsule-render#wave
 -->
