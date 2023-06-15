@@ -32,7 +32,7 @@ https://kr.freepik.com/premium-vector/blue-and-purple-color-palette-with-hex_130
  
 #### Sub & Study Skils
  
-![Unity](https://img.shields.io/badge/-Unity-C57FA7?logo=Unity&logoColor=FFF423) ![C#](https://img.shields.io/badge/-C%23-4D8ABA?logo=C#&logoColor=white) ![Android](https://img.shields.io/badge/-Android-839158?logo=Android&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-6E74D3?logo=Apple&logoColor=B3CEED) ![Python](https://img.shields.io/badge/-Python-886CA7?logo=Python&logoColor=CCFFCE) ![swift](https://img.shields.io/badge/-swift-C26F1E?logo=swift&logoColor=EEAEAE)
+![Unity](https://img.shields.io/badge/-Unity-C57FA7?logo=Unity&logoColor=FFF423) ![C#](https://img.shields.io/badge/-C%23-4D8ABA?logo=C#&logoColor=white) ![Python](https://img.shields.io/badge/-Python-886CA7?logo=Python&logoColor=CCFFCE)
  
  
  #### Certificate
